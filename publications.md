@@ -8,11 +8,12 @@ title: Publications
 
 ## Conference Paper
 
-- [When Less is Enough: Positive and Unlabeled Learning Model for Vulnerability Detection](https://ieeexplore.ieee.org/abstract/document/10298363) <br>**Xin-Cheng Wen**, Xinchen Wang, Cuiyun Gao, Shaohua Wang, Yang Liu, Zhaoquan Gu<br>2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE) <Luxembourg, Luxembourg. 11-15 September 2023> <br>
+- [When Less is Enough: Positive and Unlabeled Learning Model for Vulnerability Detection](https://ieeexplore.ieee.org/abstract/document/10298363) <br>**Xin-Cheng Wen**, Xinchen Wang, Cuiyun Gao, Shaohua Wang, Yang Liu, Zhaoquan Gu<br>2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE) <br>Luxembourg, Luxembourg. 11-15 September 2023<br>
 
 - [Vulnerability Detection with Graph Simplification and Enhanced Graph Representation Learning](https://ieeexplore.ieee.org/document/10172762) <br> **Xin-Cheng Wen^**, Yupan Chen^, Cuiyun Gao, Hongyu Zhang, Jie M Zhang, Qing Liao<br>2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE)<br>Melbourne, Australia. 14-20 May 2023<br>
 
-- [CTL-MTNet: A Novel CapsNet and Transfer Learning-Based Mixed Task Net for the Single-Corpus and Cross-Corpus Speech Emotion Recognition](https://www.ijcai.org/proceedings/2022/0320.pdf)<br>*In XMU project*<br>**Xin-Cheng Wen^**, Jia-Xin Ye^, Yan Luo, Yong Xu, Xuan-Ze Wang, Chang-Li Wu, Kun-Hong Liu<br>Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence (IJCAI-22)<br>
+- [CTL-MTNet: A Novel CapsNet and Transfer Learning-Based Mixed Task Net for the Single-Corpus and Cross-Corpus Speech Emotion Recognition](https://www.ijcai.org/proceedings/2022/0320.pdf)<br>*In XMU project*<br>**Xin-Cheng Wen^**, Jia-Xin Ye^, Yan Luo, Yong Xu, Xuan-Ze Wang, Chang-Li Wu, Kun-Hong Liu<br>Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence (IJCAI-22)<br> Vienna, Austria. July 23-29, 2022<br>
+
 
 ---
 
