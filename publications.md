@@ -19,9 +19,10 @@ title: Publications
 
 ## Journal Paper
 
-- [Meta-path based attentional graph learning model for vulnerability detection](https://www.researchgate.net/publication/378144932)<br>**Xin-Cheng Wen**,  Cuiyun Gao, Jiaxin Ye, Yichen Li, Zhihong Tian, Yan Jia, Xuan Wang<br>IEEE Transactions on Software Engineering 2023.
+- [Meta-path based attentional graph learning model for vulnerability detection](https://www.researchgate.net/publication/378144932)<br>**Xin-Cheng Wen**,  Cuiyun Gao, Jiaxin Ye, Yichen Li, Zhihong Tian, Yan Jia, Xuan Wang<br>IEEE Transactions on Software Engineering 2023.<br>
 
-- [GM-TCNet: Gated multi-scale temporal convolutional network using emotion causality for speech emotion recognition](https://www.sciencedirect.com/science/article/abs/pii/S0167639322000954)<br> Jia-Xin Ye^, **Xin-Cheng Wen^**, Xuan-Ze Wang, Yong Xu, Yan Luo, Chang-Li Wu, Li-Yan Chen, Kun-Hong Liu <br> Speech Communication
+- [GM-TCNet: Gated multi-scale temporal convolutional network using emotion causality for speech emotion recognition](https://www.sciencedirect.com/science/article/abs/pii/S0167639322000954)<br> Jia-Xin Ye^, **Xin-Cheng Wen^**, Xuan-Ze Wang, Yong Xu, Yan Luo, Chang-Li Wu, Li-Yan Chen, Kun-Hong Liu <br> Speech Communication<br>
+  
 ---
 
 
@@ -38,6 +39,8 @@ title: Publications
 
 ---
 
-- ^ These authors contributed equally to this work.
+### Note
+
+^ These authors contributed equally to this work.
 
   <br>
