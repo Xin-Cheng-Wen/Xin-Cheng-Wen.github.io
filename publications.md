@@ -4,40 +4,39 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 12th Feb 2024&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+> Lastest Update: 29th Feb 2024&nbsp;  
 
 ## Conference Paper
 
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://www.researchgate.net/publication/378144932)<br>*Final year project (FYP).*<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Tozammel Hossain, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence, Undergraduate Consortium ([AAAI 2024 UC](https://aaai.org/aaai-conference/undergraduate-consortium/))<br>Vancouver, Canada. February, 2024. Full paper submitted to KDD 2024.
+- [When Less is Enough: Positive and Unlabeled Learning Model for Vulnerability Detection](https://ieeexplore.ieee.org/abstract/document/10298363) <br>**Xin-Cheng Wen**, Xinchen Wang, Cuiyun Gao, Shaohua Wang, Yang Liu, Zhaoquan Gu<br>2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE) <Luxembourg, Luxembourg. 11-15 September 2023> <br>
 
-- [Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model](https://www.researchgate.net/publication/374730865)<br>*Junior year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
+- [Vulnerability Detection with Graph Simplification and Enhanced Graph Representation Learning](https://ieeexplore.ieee.org/document/10172762) <br> **Xin-Cheng Wen^**, Yupan Chen^, Cuiyun Gao, Hongyu Zhang, Jie M Zhang, Qing Liao<br>2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE)<br>Melbourne, Australia. 14-20 May 2023<br>
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>Freshman course design, early project.<br>Hanlin Cai, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
+- [CTL-MTNet: A Novel CapsNet and Transfer Learning-Based Mixed Task Net for the Single-Corpus and Cross-Corpus Speech Emotion Recognition](https://www.ijcai.org/proceedings/2022/0320.pdf)<br>*In XMU project*<br>**Xin-Cheng Wen^**, Jia-Xin Ye^, Yan Luo, Yong Xu, Xuan-Ze Wang, Chang-Li Wu, Kun-Hong Liu<br>Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence (IJCAI-22)<br>
 
-<br>
+---
 
 ## Journal Paper
 
-- Coming soon!
+- [Meta-path based attentional graph learning model for vulnerability detection](https://www.researchgate.net/publication/378144932)<br>**Xin-Cheng Wen**,  Cuiyun Gao, Jiaxin Ye, Yichen Li, Zhihong Tian, Yan Jia, Xuan Wang<br>IEEE Transactions on Software Engineering 2023.
+
+- [GM-TCNet: Gated multi-scale temporal convolutional network using emotion causality for speech emotion recognition](https://www.sciencedirect.com/science/article/abs/pii/S0167639322000954)<br> Jia-Xin Ye^, **Xin-Cheng Wen^**, Xuan-Ze Wang, Yong Xu, Yan Luo, Chang-Li Wu, Li-Yan Chen, Kun-Hong Liu <br> Speech Communication
+---
+
+
+
+## Collaborative Paper
+
+- [A Repository-Level Dataset For Detecting, Classifying and Repairing Software Vulnerabilities](https://arxiv.org/abs/2401.13169) <br> Xinchen Wang, Ruida Hu, Cuiyun Gao, **Xin-Cheng Wen**, Yujia Chen, Qing Liao <br> ICSE 2024 Challenge Track<br>
+
+- [What Makes Good In-context Demonstrations for Code Intelligence Tasks with LLMs?](https://ieeexplore.ieee.org/abstract/document/10298329) <br>Shuzheng Gao, **Xin-Cheng Wen**, Cuiyun Gao, Wenxuan Wang, Michael R Lyu<br> ASE 2023<br>
+
+- [Emo-DNA: Emotion Decoupling and Alignment Learning for Cross-Corpus Speech Emotion Recognition](https://dl.acm.org/doi/abs/10.1145/3581783.3611704) <br> Jiaxin Ye, Yujie Wei, **Xin-Cheng Wen**, Chenglong Ma, Zhizhong Huang, Kunhong Liu, Hongming Shan<br> ACM MM 2023
 
   <br>
 
 ---
 
-## Working Manuscript
-
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>
-
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>
-
-  <br>
-
----
-
-## Undergrad Thesis
-
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project (FYP). Under working<br>Already published a poster paper at AAAI 2024<br>Expect to submit a long paper to IEEE Internet of Things Journal.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/en/)<br>
+- ^ These authors contributed equally to this work.
 
   <br>
