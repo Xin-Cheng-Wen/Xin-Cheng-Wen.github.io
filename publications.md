@@ -19,9 +19,9 @@ title: Publications
 
 ## Journal Paper
 
-- [Meta-path based attentional graph learning model for vulnerability detection](https://www.researchgate.net/publication/378144932)<br>**Xin-Cheng Wen**,  Cuiyun Gao, Jiaxin Ye, Yichen Li, Zhihong Tian, Yan Jia, Xuan Wang<br>IEEE Transactions on Software Engineering **TSE-23 CCF-A**<br>
+- [Meta-path based attentional graph learning model for vulnerability detection](https://www.researchgate.net/publication/378144932)<br>**Xin-Cheng Wen**,  Cuiyun Gao, Jiaxin Ye, Yichen Li, Zhihong Tian, Yan Jia, Xuan Wang<br>IEEE Transactions on Software Engineering **(TSE-23 CCF-A)** <br>
 
-- [GM-TCNet: Gated multi-scale temporal convolutional network using emotion causality for speech emotion recognition](https://www.sciencedirect.com/science/article/abs/pii/S0167639322000954)<br> Jia-Xin Ye^, **Xin-Cheng Wen^**, Xuan-Ze Wang, Yong Xu, Yan Luo, Chang-Li Wu, Li-Yan Chen, Kun-Hong Liu <br> Speech Communication<br>
+- [GM-TCNet: Gated multi-scale temporal convolutional network using emotion causality for speech emotion recognition](https://www.sciencedirect.com/science/article/abs/pii/S0167639322000954)<br> Jia-Xin Ye^, **Xin-Cheng Wen^**, Xuan-Ze Wang, Yong Xu, Yan Luo, Chang-Li Wu, Li-Yan Chen, Kun-Hong Liu <br> Speech Communication **(CCF-B)** <br>
   
 ---
 
@@ -31,9 +31,9 @@ title: Publications
 
 - [A Repository-Level Dataset For Detecting, Classifying and Repairing Software Vulnerabilities](https://arxiv.org/abs/2401.13169) <br> Xinchen Wang, Ruida Hu, Cuiyun Gao, **Xin-Cheng Wen**, Yujia Chen, Qing Liao <br> ICSE 2024 Challenge Track<br>
 
-- [What Makes Good In-context Demonstrations for Code Intelligence Tasks with LLMs?](https://ieeexplore.ieee.org/abstract/document/10298329) <br>Shuzheng Gao, **Xin-Cheng Wen**, Cuiyun Gao, Wenxuan Wang, Michael R Lyu<br> ASE 2023<br>
+- [What Makes Good In-context Demonstrations for Code Intelligence Tasks with LLMs?](https://ieeexplore.ieee.org/abstract/document/10298329) <br>Shuzheng Gao, **Xin-Cheng Wen**, Cuiyun Gao, Wenxuan Wang, Michael R Lyu<br> **ASE 2023 CCF-A** <br>
 
-- [Emo-DNA: Emotion Decoupling and Alignment Learning for Cross-Corpus Speech Emotion Recognition](https://dl.acm.org/doi/abs/10.1145/3581783.3611704) <br> Jiaxin Ye, Yujie Wei, **Xin-Cheng Wen**, Chenglong Ma, Zhizhong Huang, Kunhong Liu, Hongming Shan<br> ACM MM 2023
+- [Emo-DNA: Emotion Decoupling and Alignment Learning for Cross-Corpus Speech Emotion Recognition](https://dl.acm.org/doi/abs/10.1145/3581783.3611704) <br> Jiaxin Ye, Yujie Wei, **Xin-Cheng Wen**, Chenglong Ma, Zhizhong Huang, Kunhong Liu, Hongming Shan<br> **ACM MM 2023 CCF-A**
 
   <br>
 
