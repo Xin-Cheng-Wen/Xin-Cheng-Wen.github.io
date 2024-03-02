@@ -10,7 +10,7 @@ Here is **Xin-Cheng Wen (文昕成)**.
 I'm currently a first-year Ph.D. student specializing in Computer Science (CS) at STAR Lab, Harbin Institute of Technology (Shenzhen). I have the privilege of being advised by Prof. [Cuiyun Gao](https://cuiyungao.github.io/). I received my Bachelor's degree in the School of Informatics at Xiamen University in 2022. My research pursuits primarily revolve around the captivating fields of Artificial Intelligence (AI) techniques for vulnerabilities and software engineering.
 
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *xiamenwxc[at]foxmail[dot]com*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - xiamenwxc[at]foxmail[dot]com
 
 
   
