@@ -31,7 +31,7 @@ title: Publications
 
 ## Collaborative Paper
 
-- [A Repository-Level Dataset For Detecting, Classifying and Repairing Software Vulnerabilities](https://arxiv.org/abs/2401.13169) <br> Xinchen Wang, Ruida Hu, Cuiyun Gao, **Xin-Cheng Wen**, Yujia Chen, Qing Liao <br> ICSE 2024 Challenge Track<br>
+- [A Repository-Level Dataset For Detecting, Classifying and Repairing Software Vulnerabilities](https://arxiv.org/abs/2401.13169) <br> Xinchen Wang, Ruida Hu, Cuiyun Gao, **Xin-Cheng Wen**, Yujia Chen, Qing Liao <br> **ICSE 2024 Challenge Track** <br>
 
 - [What Makes Good In-context Demonstrations for Code Intelligence Tasks with LLMs?](https://ieeexplore.ieee.org/abstract/document/10298329) <br>Shuzheng Gao, **Xin-Cheng Wen**, Cuiyun Gao, Wenxuan Wang, Michael R Lyu<br> **ASE 2023 CCF-A** <br>
 
