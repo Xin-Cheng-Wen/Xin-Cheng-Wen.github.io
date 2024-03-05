@@ -58,7 +58,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ---
 
-## Research Interests
+## 📌 Research Interests
 
 - **Main:** AI for Vulnerability Detection
 - **Main:** AI for Software Engineering
