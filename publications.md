@@ -4,8 +4,8 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 29th Feb 2024&nbsp;
-> **Note：**
+> Lastest Update: 29th Feb 2024&nbsp; <br>
+> **Note：** <br>
 > **^:** These authors contributed equally to this work.
 
 ## Conference Paper
