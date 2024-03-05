@@ -18,7 +18,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ---
 
-## News and Updates
+## 📺 News and Updates
 - &#x1F4A1; [03/2024][Conference]. Our paper accepted by ISSTA 2024.
 - &#x1F4A1; [02/2024][Conference]. Congrats to Xinchen and Ruida. Our paper accepted by ISCE 24 Challenge Track, **the first [repository-level vulnerability dataset](https://arxiv.org/abs/2401.13169)**.
 - 🏅 [12/2023][Scholarship]. Happy to win the Fang Binxing Scholarship in 2023.
@@ -38,7 +38,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ---
 
-## Academic Background
+## 🐾 Academic Background
 
 **<font color='red'>[Highlight]</font> I'm currently a first-year Ph.D. student in HITSZ**
 
@@ -50,10 +50,18 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ---
 
+## 🔎 Experience
+
+- **Nov 2023 - Now** Internship at **Tencent WXG** group
+
+<br>
+
+---
+
 ## Research Interests
 
 - **Main:** AI for Vulnerability Detection
-- **Main:**AI for Software Engineering
+- **Main:** AI for Software Engineering
 - **Branch:** Speech Emotion Recognition
 
 
