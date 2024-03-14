@@ -52,7 +52,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ---
 
 ## 🔎 Experience
-- **[01/2024] [Talk]** Invited by Nadi Daoudi and Trux research group **@University of Luxembourg**
+- **[01/2024] [Talk]** Invited by Nadi Daoudi **@University of Luxembourg**
 - **[05/2023] [Presentation]** ICSE 2023 **@Australia**
 
 <br>
