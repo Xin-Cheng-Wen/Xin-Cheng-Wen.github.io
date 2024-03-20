@@ -14,21 +14,21 @@ title: Publications
 
 ## Conference Paper
 
-- [When Less is Enough: Positive and Unlabeled Learning Model for Vulnerability Detection](https://ieeexplore.ieee.org/abstract/document/10298363) <br>**Xin-Cheng Wen**, Xinchen Wang, Cuiyun Gao, Shaohua Wang, Yang Liu, Zhaoquan Gu<br>2023 38th IEEE/ACM International Conference on Automated Software Engineering **(ASE-23 CCF-A)** <br>Luxembourg, Luxembourg. 11-15 September 2023<br>
+- [When Less is Enough: Positive and Unlabeled Learning Model for Vulnerability Detection](https://ieeexplore.ieee.org/abstract/document/10298363) <br>**Xin-Cheng Wen**, Xinchen Wang, Cuiyun Gao, Shaohua Wang, Yang Liu, Zhaoquan Gu<br>2023 38th IEEE/ACM International Conference on Automated Software Engineering **(ASE-23 CCF-A)** <br>Luxembourg, Luxembourg. 11-15 September 2023<br> *Completed at HITSZ in 2023.5, Advisor: Cuiyun Gao, Shaohua Wang and Yang Liu*<br>
 
-- [Vulnerability Detection with Graph Simplification and Enhanced Graph Representation Learning](https://ieeexplore.ieee.org/document/10172762) <br> **Xin-Cheng Wen^**, Yupan Chen^, Cuiyun Gao, Hongyu Zhang, Jie M Zhang, Qing Liao<br>2023 IEEE/ACM 45th International Conference on Software Engineering **(ICSE-23 CCF-A)** <br>Melbourne, Australia. 14-20 May 2023<br>
+- [Vulnerability Detection with Graph Simplification and Enhanced Graph Representation Learning](https://ieeexplore.ieee.org/document/10172762) <br> **Xin-Cheng Wen^**, Yupan Chen^, Cuiyun Gao, Hongyu Zhang, Jie M Zhang, Qing Liao<br>2023 IEEE/ACM 45th International Conference on Software Engineering **(ICSE-23 CCF-A)** <br>Melbourne, Australia. 14-20 May 2023<br> *Final year project at XMU and completed ad HITSZ in 2022.5, Advisor: Cuiyun Gao and Kun-Hong Liu*<br>
 
-- [CTL-MTNet: A Novel CapsNet and Transfer Learning-Based Mixed Task Net for the Single-Corpus and Cross-Corpus Speech Emotion Recognition](https://www.ijcai.org/proceedings/2022/0320.pdf)<br>*In XMU project*<br>**Xin-Cheng Wen^**, Jia-Xin Ye^, Yan Luo, Yong Xu, Xuan-Ze Wang, Chang-Li Wu, Kun-Hong Liu<br>Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence **(IJCAI-22 CCF-A)** <br> Vienna, Austria. July 23-29, 2022<br>
+- [CTL-MTNet: A Novel CapsNet and Transfer Learning-Based Mixed Task Net for the Single-Corpus and Cross-Corpus Speech Emotion Recognition](https://www.ijcai.org/proceedings/2022/0320.pdf)<br>*In XMU project*<br>**Xin-Cheng Wen^**, Jia-Xin Ye^, Yan Luo, Yong Xu, Xuan-Ze Wang, Chang-Li Wu, Kun-Hong Liu<br>Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence **(IJCAI-22 CCF-A)** <br> Vienna, Austria. July 23-29, 2022<br> *Completed at XMU in 2021.12, Advisor: Kun-Hong Liu*<br>
 
 
 ---
 
 ## Journal Paper
-- [LIVABLE: Exploring Long-Tailed Classification of Software Vulnerability Types](https://arxiv.org/abs/2306.06935)<br>**Xin-Cheng Wen**, Cuiyun Gao, Feng Luo, Haoyu Wang, Ge Li, Qing Liao **(Accept by TSE-24 CCF-A)** <br>
+- [LIVABLE: Exploring Long-Tailed Classification of Software Vulnerability Types](https://arxiv.org/abs/2306.06935)<br>**Xin-Cheng Wen**, Cuiyun Gao, Feng Luo, Haoyu Wang, Ge Li, Qing Liao<br>IEEE Transactions on Software Engineering  **(Accept by TSE-24 CCF-A)** <br> *Completed at HITSZ in 2023.2, Advisor: Cuiyun Gao*<br>
 
-- [Meta-path based attentional graph learning model for vulnerability detection](https://www.computer.org/csdl/journal/ts/5555/01/10376026/1TfBt3jKLtu)<br>**Xin-Cheng Wen**,  Cuiyun Gao, Jiaxin Ye, Yichen Li, Zhihong Tian, Yan Jia, Xuan Wang<br>IEEE Transactions on Software Engineering **(TSE-23 CCF-A)** <br>
+- [Meta-path based attentional graph learning model for vulnerability detection](https://www.computer.org/csdl/journal/ts/5555/01/10376026/1TfBt3jKLtu)<br>**Xin-Cheng Wen**,  Cuiyun Gao, Jiaxin Ye, Yichen Li, Zhihong Tian, Yan Jia, Xuan Wang<br>IEEE Transactions on Software Engineering **(TSE-23 CCF-A)** <br> *The first project in HITSZ. Completed in 2022.12, Advisor: Cuiyun Gao*<br>
 
-- [GM-TCNet: Gated multi-scale temporal convolutional network using emotion causality for speech emotion recognition](https://www.sciencedirect.com/science/article/abs/pii/S0167639322000954)<br> Jia-Xin Ye^, **Xin-Cheng Wen^**, Xuan-Ze Wang, Yong Xu, Yan Luo, Chang-Li Wu, Li-Yan Chen, Kun-Hong Liu <br> Speech Communication **(CCF-B)** <br>
+- [GM-TCNet: Gated multi-scale temporal convolutional network using emotion causality for speech emotion recognition](https://www.sciencedirect.com/science/article/abs/pii/S0167639322000954)<br> Jia-Xin Ye^, **Xin-Cheng Wen^**, Xuan-Ze Wang, Yong Xu, Yan Luo, Chang-Li Wu, Li-Yan Chen, Kun-Hong Liu <br> Speech Communication **(CCF-B)** <br> *Completed at XMU in 2021.8, Advisor: Kun-Hong Liu and Yong Xu*<br>
   
 ---
 
