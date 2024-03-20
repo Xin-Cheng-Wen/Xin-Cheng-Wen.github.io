@@ -24,8 +24,9 @@ title: Publications
 ---
 
 ## Journal Paper
+- [LIVABLE: Exploring Long-Tailed Classification of Software Vulnerability Types](https://arxiv.org/abs/2306.06935)<br>**Xin-Cheng Wen**, Cuiyun Gao, Feng Luo, Haoyu Wang, Ge Li, Qing Liao **(Accept by TSE-24 CCF-A)** <br>
 
-- [Meta-path based attentional graph learning model for vulnerability detection](https://www.researchgate.net/publication/378144932)<br>**Xin-Cheng Wen**,  Cuiyun Gao, Jiaxin Ye, Yichen Li, Zhihong Tian, Yan Jia, Xuan Wang<br>IEEE Transactions on Software Engineering **(TSE-23 CCF-A)** <br>
+- [Meta-path based attentional graph learning model for vulnerability detection](https://www.computer.org/csdl/journal/ts/5555/01/10376026/1TfBt3jKLtu)<br>**Xin-Cheng Wen**,  Cuiyun Gao, Jiaxin Ye, Yichen Li, Zhihong Tian, Yan Jia, Xuan Wang<br>IEEE Transactions on Software Engineering **(TSE-23 CCF-A)** <br>
 
 - [GM-TCNet: Gated multi-scale temporal convolutional network using emotion causality for speech emotion recognition](https://www.sciencedirect.com/science/article/abs/pii/S0167639322000954)<br> Jia-Xin Ye^, **Xin-Cheng Wen^**, Xuan-Ze Wang, Yong Xu, Yan Luo, Chang-Li Wu, Li-Yan Chen, Kun-Hong Liu <br> Speech Communication **(CCF-B)** <br>
   
