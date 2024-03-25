@@ -71,9 +71,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## 📌 Research Interests
 
-- **Main:** AI for Vulnerability Detection
-- **Main:** AI for Software Engineering
-- **Branch:** Speech Emotion Recognition
+- **AI for Vulnerability**
+- **LLM for Software Engineering**
+- **Speech Emotion Recognition**
 
 
 
