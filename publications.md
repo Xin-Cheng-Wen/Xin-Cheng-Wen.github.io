@@ -14,7 +14,7 @@ title: Publications
 
 ## Conference Paper
 
-- [A Repository-Level Dataset For Detecting, Classifying and Repairing Software Vulnerabilities](https://arxiv.org/abs/2401.13169) <br> Xinchen Wang, Ruida Hu, Cuiyun Gao, **Xin-Cheng Wen**, Yujia Chen, Qing Liao <br> **Best Paper Industry Challenge Track  @ ICSE 2024 ** <br> Lisbon, Portugal. 14-20 April 2024<br> *Completed at HITSZ in 2024.1, Advisor: Cuiyun Gao, Collaborate with Undergraduates Xinchen Wang and Ruida Hu<br>
+- [A Repository-Level Dataset For Detecting, Classifying and Repairing Software Vulnerabilities](https://arxiv.org/abs/2401.13169) <br> Xinchen Wang, Ruida Hu, Cuiyun Gao, **Xin-Cheng Wen**, Yujia Chen, Qing Liao <br> **Best Paper Industry Challenge Track @ ICSE 2024** <br> Lisbon, Portugal. 14-20 April 2024<br> *Completed at HITSZ in 2024.1, Advisor: Cuiyun Gao, Collaborate with Undergraduates Xinchen Wang and Ruida Hu<br>
 
 - [When Less is Enough: Positive and Unlabeled Learning Model for Vulnerability Detection](https://ieeexplore.ieee.org/abstract/document/10298363) <br>**Xin-Cheng Wen**, Xinchen Wang, Cuiyun Gao, Shaohua Wang, Yang Liu, Zhaoquan Gu<br>2023 38th IEEE/ACM International Conference on Automated Software Engineering **(ASE-23 CCF-A)** <br>Luxembourg, Luxembourg. 11-15 September 2023<br> *Completed at HITSZ in 2023.5, Advisor: Cuiyun Gao, Shaohua Wang and Yang Liu*<br>
 
