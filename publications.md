@@ -40,9 +40,9 @@ title: Publications
 
 - [What Makes Good In-context Demonstrations for Code Intelligence Tasks with LLMs?](https://ieeexplore.ieee.org/abstract/document/10298329) <br>Shuzheng Gao, **Xin-Cheng Wen**, Cuiyun Gao, Wenxuan Wang, Michael R Lyu<br> **ASE 2023 CCF-A** <br>
 
-- [Emo-DNA: Emotion Decoupling and Alignment Learning for Cross-Corpus Speech Emotion Recognition](https://dl.acm.org/doi/abs/10.1145/3581783.3611704) <br> Jiaxin Ye, Yujie Wei, **Xin-Cheng Wen**, Chenglong Ma, Zhizhong Huang, Kunhong Liu, Hongming Shan<br> **ACM MM 2023 CCF-A**
+- [Emo-DNA: Emotion Decoupling and Alignment Learning for Cross-Corpus Speech Emotion Recognition](https://dl.acm.org/doi/abs/10.1145/3581783.3611704) <br> Jiaxin Ye, Yujie Wei, **Xin-Cheng Wen**, Chenglong Ma, Zhizhong Huang, Kunhong Liu, Hongming Shan<br> **ACM MM 2023 CCF-A**<br>
 
-  <br>
+- [Temporal Modeling Matters: A Novel Temporal Emotional Modeling Approach for Speech Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/10096370) <br> Jiaxin Ye, **Xin-Cheng Wen**, Yujie Wei, Yong Xu, Kunhong Liu, Hongming Shan<br> **ICASSP 2023 CCF-B**<br>
 
 ---
 
