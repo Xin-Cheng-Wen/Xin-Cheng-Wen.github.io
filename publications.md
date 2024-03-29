@@ -13,7 +13,7 @@ title: Publications
 ---
 
 ## Conference Paper
-- [SCALE: Constructing Structured Natural Language Comment Trees for Software Vulnerability Detection] <br>**Xin-Cheng Wen**, Cuiyun Gao, Shuzheng Gao, Yang Xiao and Michael R. Lyu<br>2024 The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) **(ISSTA-24 CCF-A)** <br>Vienna, Austria. 16-20 September, 2024<br> *Completed at HITSZ in 2023.12, Advisor: Cuiyun Gao, Yang Xiao and Michael R. Lyu*<br>
+- [SCALE: Constructing Structured Natural Language Comment Trees for Software Vulnerability Detection](https://arxiv.org/abs/2403.19096) <br>**Xin-Cheng Wen**, Cuiyun Gao, Shuzheng Gao, Yang Xiao and Michael R. Lyu<br>2024 The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) **(ISSTA-24 CCF-A)** <br>Vienna, Austria. 16-20 September, 2024<br> *Completed at HITSZ in 2023.12, Advisor: Cuiyun Gao, Yang Xiao and Michael R. Lyu*<br>
 
 
 - [A Repository-Level Dataset For Detecting, Classifying and Repairing Software Vulnerabilities](https://arxiv.org/abs/2401.13169) <br> Xinchen Wang, Ruida Hu, Cuiyun Gao, **Xin-Cheng Wen**, Yujia Chen, Qing Liao <br> **Best Paper of Industry Challenge Track @ ICSE 2024** <br> Lisbon, Portugal. 14-20 April 2024<br> *Completed at HITSZ in 2024.1, Advisor: Cuiyun Gao, Collaborate with Undergraduates Xinchen Wang and Ruida Hu<br>
