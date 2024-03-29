@@ -21,7 +21,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## 📺 News and Updates
 - 🏅 [03/2024][Award].Our ICSE'24 paper ReposVul has been selected **Best Paper Award** of Industry Challenge Track!
 - &#x1F4A1; [03/2024][Journal]. Our paper accepted by TSE.
-- &#x1F4A1; [03/2024][Conference]. Our paper accepted by **[ISSTA 2024]**(https://arxiv.org/abs/2403.19096).
+- &#x1F4A1; [03/2024][Conference]. Our paper accepted by **[ISSTA 2024](https://arxiv.org/abs/2403.19096)**.
 - &#x1F4A1; [02/2024][Conference]. Congrats to Xinchen and Ruida. Our paper accepted by ISCE 24 Challenge Track, **the first [repository-level vulnerability dataset](https://arxiv.org/abs/2401.13169)**.
 - 🏅 [12/2023][Scholarship]. Happy to win the Binxing Fang Scholarship in 2023.
 - &#x1F4A1; [11/2023][Journal]. Our paper accepted by TSE.
