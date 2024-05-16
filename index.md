@@ -84,31 +84,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **LLM for Software Engineering**
 - **Speech Emotion Recognition**
 
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .map-container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 300px; /* 可根据需要调整 */
-        }
-        iframe {
-            width: 300px; /* 设置宽度 */
-            height: 300px; /* 设置高度 */
-            border: none; /* 去掉边框 */
-        }
-    </style>
-</head>
-<body>
-    <div class="map-container">
-        <iframe src="//clustrmaps.com/globe.html?d=aOaD90ilFyLNGYvoMbU4h-ub9zto6QkZp33lasBqhkY"></iframe>
+<br>
+<div style="text-align: center;">
+    <div style="display: inline-block; width: 300px; height: 300px;">
+        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=aOaD90ilFyLNGYvoMbU4h-ub9zto6QkZp33lasBqhkY"></script>
     </div>
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=aOaD90ilFyLNGYvoMbU4h-ub9zto6QkZp33lasBqhkY"></script>
-</body>
-</html>
+</div>
