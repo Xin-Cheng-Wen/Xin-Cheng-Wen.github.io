@@ -61,8 +61,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ---
 
 ## ✒️ SERVICES
-- Reviewer for **TNNLS, TIFS, TKDE**
-- Subreviewer for **FSE 2024, ISSTA 2024, ASE 2023, TSE, IST, JSS, EMSE**
+- Reviewer for **TOSEM, TNNLS, TIFS, TKDE**
+- Subreviewer for **ASE 2024, FSE 2024, ISSTA 2024, ASE 2023, TSE, IST, JSS, EMSE**
 
 <br>
 
@@ -70,8 +70,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## 🐳 Activities
 
-- **Nov 2023 - Now** Internship at **Tencent WXG** group
-
+- **Nov 2023 - June 2024** Internship at **Tencent WXG** group, on **Repository-Level Code Completion and RAG**.
+- **July 2024 - Now** Internship at **Tencent TEG** group
 <br>
 
 ---
