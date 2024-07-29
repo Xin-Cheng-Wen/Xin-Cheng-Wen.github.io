@@ -19,6 +19,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ---
 
 ## 📺 News and Updates
+- &#x1F4A1; [07/2024][Conference]. One demo paper accepted by **ISSTA/ECOOP 2024** of **Doctoral Symposium**.
+- 🏅 [06/2024][Travel Grant]. Happy to obtain the Travel Grant in Internetware 2024!
 - 🏅 [03/2024][Award].Our ICSE'24 paper ReposVul has been selected **Best Paper Award** of Industry Challenge Track!
 - &#x1F4A1; [03/2024][Journal]. Our paper accepted by TSE.
 - &#x1F4A1; [03/2024][Conference]. Our paper accepted by **[ISSTA 2024](https://arxiv.org/abs/2403.19096)**.
