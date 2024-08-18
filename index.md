@@ -7,7 +7,7 @@ layout: page
 
 Here is **Xin-Cheng Wen (文昕成)**.
 
-I'm currently a first-year Ph.D. student specializing in Computer Science (CS) at STAR Lab, Harbin Institute of Technology (Shenzhen). I have the privilege of being advised by Prof. [Cuiyun Gao](https://cuiyungao.github.io/). I received my Bachelor's degree in the School of Informatics at Xiamen University in 2022. My research pursuits primarily revolve around the captivating fields of Artificial Intelligence (AI) techniques for vulnerabilities and software engineering.
+I'm currently a second-year Ph.D. student specializing in Computer Science (CS) at STAR Lab, Harbin Institute of Technology (Shenzhen). I have the privilege of being advised by Prof. [Cuiyun Gao](https://cuiyungao.github.io/). I received my Bachelor's degree in the School of Informatics at Xiamen University in 2022. My research pursuits primarily revolve around the captivating fields of Artificial Intelligence (AI) techniques for software engineering.
 
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *xiamenwxc@foxmail.com*
@@ -44,7 +44,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## 🐾 Academic Background
 
-**<font color='red'>[Highlight]</font> I'm currently a first-year Ph.D. student in HITSZ**
+**<font color='red'>[Highlight]</font> I'm currently a second-year Ph.D. student in HITSZ**
 
 - **Sep 2022 - June 2027 (*now*):** <br>Successive postgraduate and doctoral programs of study (**硕博连读**) of Computer Science, Harbin Institute of Technology (Shenzhen), Shenzhen, China
 - **June 2023 - August 2023:** <br>Visting student, Chinese University of Hong Kong, Hong Kong, China  
@@ -55,7 +55,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ---
 
 ## 🔎 Experience 
-- **[01/2024] [Talk]** Invited by Nadi Daoudi **@University of Luxembourg**
+- **[08/2024] [Presentation]** Invited by **CCF TCSE @**
+- **[01/2024] [Talk]** Invited by **Nadi Daoudi @University of Luxembourg**
 - **[05/2023] [Presentation]** ICSE 2023 **@Australia**
 
 <br>
@@ -73,7 +74,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## 🐳 Activities
 
 - **Nov 2023 - June 2024** Internship at **Tencent WXG** group, on **Repository-Level Code Completion and RAG**.
-- **July 2024 - Now** Internship at **Tencent TEG** group
+- **July 2024 - Now** Internship at **Tencent TEG** group, on **Multi-Agent Framework for Game Playing**
 <br>
 
 ---
@@ -84,6 +85,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - **AI for Vulnerability**
 - **LLM for Software Engineering**
+- **Multi-Agent Collaboration**
 - **Speech Emotion Recognition**
 
 <br>
