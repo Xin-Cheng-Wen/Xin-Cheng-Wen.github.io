@@ -13,7 +13,7 @@ title: Publications
 ---
 
 ## Conference Paper
-- [Collaboration to Repository-Level Vulnerability Detection] <br>**Xin-Cheng Wen** <br> **(ISSTA/ECOOP-2024 Doctoral Symposium)** <br>Vienna, Austria. 16-20 September, 2024<br> *Completed at HITSZ in 2024.6, Advisor: Cuiyun Gao*<br>
+- [Collaboration to Repository-Level Vulnerability Detection] <br>**Xin-Cheng Wen** <br> ** ISSTA/ECOOP-2024 Doctoral Symposium ** <br>Vienna, Austria. 16-20 September, 2024<br> *Completed at HITSZ in 2024.6, Advisor: Cuiyun Gao*<br>
 
 
 - [SCALE: Constructing Structured Natural Language Comment Trees for Software Vulnerability Detection](https://arxiv.org/abs/2403.19096) <br>**Xin-Cheng Wen**, Cuiyun Gao, Shuzheng Gao, Yang Xiao and Michael R. Lyu<br>2024 The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) **(ISSTA-24 CCF-A)** <br>Vienna, Austria. 16-20 September, 2024<br> *Completed at HITSZ in 2023.12, Advisor: Cuiyun Gao, Yang Xiao and Michael R. Lyu*<br>
