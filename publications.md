@@ -13,13 +13,13 @@ title: Publications
 ---
 
 ## Conference Paper
-- [Collaboration to Repository-Level Vulnerability Detection] <br>**Xin-Cheng Wen** <br> **ISSTA/ECOOP-2024 Doctoral Symposium** <br>Vienna, Austria. 16-20 September, 2024<br> *Completed at HITSZ in 2024.6, Advisor: Cuiyun Gao*<br>
+- [Collaboration to Repository-Level Vulnerability Detection](https://dl.acm.org/doi/abs/10.1145/3650212.3685562) <br>**Xin-Cheng Wen** <br> **ISSTA/ECOOP-2024 Doctoral Symposium** <br>Vienna, Austria. 16-20 September, 2024<br> *Completed at HITSZ in 2024.6, Advisor: Cuiyun Gao*<br>
 
 
-- [SCALE: Constructing Structured Natural Language Comment Trees for Software Vulnerability Detection](https://arxiv.org/abs/2403.19096) <br>**Xin-Cheng Wen**, Cuiyun Gao, Shuzheng Gao, Yang Xiao and Michael R. Lyu<br>2024 The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) **(ISSTA-24 CCF-A)** <br>Vienna, Austria. 16-20 September, 2024<br> *Completed at HITSZ in 2023.12, Advisor: Cuiyun Gao, Yang Xiao and Michael R. Lyu*<br>
+- [SCALE: Constructing Structured Natural Language Comment Trees for Software Vulnerability Detection](https://dl.acm.org/doi/abs/10.1145/3650212.3652124) <br>**Xin-Cheng Wen**, Cuiyun Gao, Shuzheng Gao, Yang Xiao and Michael R. Lyu<br>2024 The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) **(ISSTA-24 CCF-A)** <br>Vienna, Austria. 16-20 September, 2024<br> *Completed at HITSZ in 2023.12, Advisor: Cuiyun Gao, Yang Xiao and Michael R. Lyu*<br>
 
 
-- [A Repository-Level Dataset For Detecting, Classifying and Repairing Software Vulnerabilities](https://arxiv.org/abs/2401.13169) <br> Xinchen Wang, Ruida Hu, Cuiyun Gao, **Xin-Cheng Wen**, Yujia Chen, Qing Liao <br> **Best Paper of Industry Challenge Track @ ICSE 2024** <br> Lisbon, Portugal. 14-20 April 2024<br> *Completed at HITSZ in 2024.1, Advisor: Cuiyun Gao, Collaborate with Undergraduates Xinchen Wang and Ruida Hu<br>
+- [ReposVul: A Repository-Level High-Quality Vulnerability Dataset](https://dl.acm.org/doi/abs/10.1145/3639478.3647634) <br> Xinchen Wang, Ruida Hu, Cuiyun Gao, **Xin-Cheng Wen**, Yujia Chen, Qing Liao <br> **Best Paper of Industry Challenge Track @ ICSE 2024** <br> Lisbon, Portugal. 14-20 April 2024<br> *Completed at HITSZ in 2024.1, Advisor: Cuiyun Gao, Collaborate with Undergraduates Xinchen Wang and Ruida Hu<br>
 
 - [When Less is Enough: Positive and Unlabeled Learning Model for Vulnerability Detection](https://ieeexplore.ieee.org/abstract/document/10298363) <br>**Xin-Cheng Wen**, Xinchen Wang, Cuiyun Gao, Shaohua Wang, Yang Liu, Zhaoquan Gu<br>2023 38th IEEE/ACM International Conference on Automated Software Engineering **(ASE-23 CCF-A)** <br>Luxembourg, Luxembourg. 11-15 September 2023<br> *Completed at HITSZ in 2023.5, Advisor: Cuiyun Gao, Shaohua Wang and Yang Liu*<br>
 
@@ -31,9 +31,9 @@ title: Publications
 ---
 
 ## Journal Paper
-- [LIVABLE: Exploring Long-Tailed Classification of Software Vulnerability Types](https://arxiv.org/abs/2306.06935)<br>**Xin-Cheng Wen**, Cuiyun Gao, Feng Luo, Haoyu Wang, Ge Li, Qing Liao<br>IEEE Transactions on Software Engineering  **(Accept by TSE-24 CCF-A)** <br> *Completed at HITSZ in 2023.2, Advisor: Cuiyun Gao*<br>
+- [LIVABLE: Exploring Long-Tailed Classification of Software Vulnerability Types](https://ieeexplore.ieee.org/abstract/document/10497542)<br>**Xin-Cheng Wen**, Cuiyun Gao, Feng Luo, Haoyu Wang, Ge Li, Qing Liao<br>IEEE Transactions on Software Engineering  **(Accept by TSE-24 CCF-A)** <br> *Completed at HITSZ in 2023.2, Advisor: Cuiyun Gao*<br>
 
-- [Meta-path based attentional graph learning model for vulnerability detection](https://www.computer.org/csdl/journal/ts/5555/01/10376026/1TfBt3jKLtu)<br>**Xin-Cheng Wen**,  Cuiyun Gao, Jiaxin Ye, Yichen Li, Zhihong Tian, Yan Jia, Xuan Wang<br>IEEE Transactions on Software Engineering **(TSE-23 CCF-A)** <br> *The first project in HITSZ. Completed in 2022.12, Advisor: Cuiyun Gao*<br>
+- [Meta-path based attentional graph learning model for vulnerability detection](https://ieeexplore.ieee.org/abstract/document/10376026)<br>**Xin-Cheng Wen**,  Cuiyun Gao, Jiaxin Ye, Yichen Li, Zhihong Tian, Yan Jia, Xuan Wang<br>IEEE Transactions on Software Engineering **(TSE-23 CCF-A)** <br> *The first project in HITSZ. Completed in 2022.12, Advisor: Cuiyun Gao*<br>
 
 - [GM-TCNet: Gated multi-scale temporal convolutional network using emotion causality for speech emotion recognition](https://www.sciencedirect.com/science/article/abs/pii/S0167639322000954)<br> Jia-Xin Ye^, **Xin-Cheng Wen^**, Xuan-Ze Wang, Yong Xu, Yan Luo, Chang-Li Wu, Li-Yan Chen, Kun-Hong Liu <br> Speech Communication **(CCF-B)** <br> *Completed at XMU in 2021.8, Advisor: Kun-Hong Liu and Yong Xu*<br>
   
