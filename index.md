@@ -7,10 +7,10 @@ layout: page
 
 Here is **Xin-Cheng Wen (文昕成)**.
 
-I'm currently a second-year Ph.D. student specializing in Computer Science (CS) at STAR Lab, Harbin Institute of Technology (Shenzhen). I have the privilege of being advised by Prof. [Cuiyun Gao](https://cuiyungao.github.io/). I received my Bachelor's degree in the School of Informatics at Xiamen University in 2022. My research pursuits primarily revolve around the captivating fields of Artificial Intelligence (AI) techniques for software engineering.
+I'm currently a second-year Ph.D. student specializing in Computer Science (CS) at STAR Lab, Harbin Institute of Technology (Shenzhen). I have the privilege of being advised by Prof. [Cuiyun Gao](https://cuiyungao.github.io/). I received my Bachelor's degree in the School of Informatics at Xiamen University in 2022, advised by Prof. [Kun-Hong Liu](https://cdmc.xmu.edu.cn/info/1010/1055.htm). My research pursuits primarily revolve around the captivating fields of Artificial Intelligence (AI) techniques for software engineering.
 
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *xiamenwxc@foxmail.com*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *xiamenwxc[at]foxmail.com*
 
 
   
@@ -19,6 +19,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ---
 
 ## 📺 News and Updates
+- &#x1F4A1; [11/2024][Conference]. Our paper is directly accepted by ICSE 2025 without revision, with an acceptance rate of 10.3% (66/642)!
 - &#x1F4A1; [07/2024][Conference]. One demo paper accepted by **ISSTA/ECOOP 2024** of **Doctoral Symposium**.
 - 🏅 [06/2024][Travel Grant]. Happy to obtain the Travel Grant in Internetware 2024!
 - 🏅 [03/2024][Award].Our ICSE'24 paper ReposVul has been selected **Best Paper Award** of Industry Challenge Track!
@@ -55,8 +56,10 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ---
 
 ## 🔎 Experience 
-- **[08/2024] [Presentation]** Invited by **CCF TCSE @**
+- **[09/2024] [Presentation]** ISSTA 2024 **@Austria**
+- **[08/2024] [Presentation]** Invited by **CCF TCSE**
 - **[01/2024] [Talk]** Invited by **Nadi Daoudi @University of Luxembourg**
+- **[01/2024] [Presentation]** Invited by **CAAI**
 - **[05/2023] [Presentation]** ICSE 2023 **@Australia**
 
 <br>
@@ -74,7 +77,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## 🐳 Activities
 
 - **Nov 2023 - June 2024** Internship at **Tencent WXG** group, on **Repository-Level Code Completion and RAG**.
-- **July 2024 - Now** Internship at **Tencent TEG** group, on **Multi-Agent Framework for Game Playing**
+- **July 2024 - Now** Internship at **Tencent TEG** group, on **Multi-Agent Framework for Game Playing**. I work closely with Dr. Deheng Ye and [Yijun Yang](https://stevenyangyj.github.io/).
 <br>
 
 ---
