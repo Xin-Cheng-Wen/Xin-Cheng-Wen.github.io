@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/fd48b82b-3864-4e8e-9625-5a67523616da)---
 layout: page
 permalink: /publications/index.html
 title: Publications
@@ -13,6 +13,9 @@ title: Publications
 ---
 
 ## Conference Paper
+
+- [Repository-Level Graph Representation Learning for Enhanced Security Patch Detection](https://arxiv.org/abs/2412.08068) <be>**Xin-Cheng Wen**, Zirui Lin, Cuiyun Gao, Hongyu Zhang, Yong Wang, Qing Liao <br>2025 IEEE/ACM 47th International Conference on Software Engineering **(ICSE-25 CCF-A)** <br>Ottawa, Canada. April 27 - May 3 2025<br> *Completed at HITSZ in 2024.8, Advisor: Cuiyun Gao and Hongyu Zhang*<br>
+
 - [Collaboration to Repository-Level Vulnerability Detection](https://dl.acm.org/doi/abs/10.1145/3650212.3685562) <br>**Xin-Cheng Wen** <br> **ISSTA/ECOOP-2024 Doctoral Symposium** <br>Vienna, Austria. 16-20 September, 2024<br> *Completed at HITSZ in 2024.6, Advisor: Cuiyun Gao*<br>
 
 
@@ -43,7 +46,7 @@ title: Publications
 
 ## Collaborative Paper
 
-- [What Makes Good In-context Demonstrations for Code Intelligence Tasks with LLMs?](https://ieeexplore.ieee.org/abstract/document/10298329) <br>Shuzheng Gao, **Xin-Cheng Wen**, Cuiyun Gao, Wenxuan Wang, Michael R Lyu<br> **ASE 2023 CCF-A** <br>
+- [What Makes Good In-context Demonstrations for Code Intelligence Tasks with LLMs?](https://ieeexplore.ieee.org/abstract/document/10298329) <be> Shuzheng Gao, **Xin-Cheng Wen**, Cuiyun Gao, Wenxuan Wang, Michael R Lyu<br> **ASE 2023 CCF-A** <br>
 
 - [Emo-DNA: Emotion Decoupling and Alignment Learning for Cross-Corpus Speech Emotion Recognition](https://dl.acm.org/doi/abs/10.1145/3581783.3611704) <br> Jiaxin Ye, Yujie Wei, **Xin-Cheng Wen**, Chenglong Ma, Zhizhong Huang, Kunhong Liu, Hongming Shan<br> **ACM MM 2023 CCF-A**<br>
 
