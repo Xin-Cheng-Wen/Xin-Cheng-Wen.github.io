@@ -14,7 +14,7 @@ title: Publications
 
 ## Conference Paper
 
-- [Repository-Level Graph Representation Learning for Enhanced Security Patch Detection](https://arxiv.org/abs/2412.08068) <br> **Xin-Cheng Wen**, Zirui Lin, Cuiyun Gao, Hongyu Zhang, Yong Wang, Qing Liao <br>2025 IEEE/ACM 47th International Conference on Software Engineering **(ICSE-25 CCF-A)** <br>Ottawa, Canada. April 27 - May 3 2025<br> *Completed at HITSZ in 2024.8, Advisor: Cuiyun Gao and Hongyu Zhang*<br>
+- [Repository-Level Graph Representation Learning for Enhanced Security Patch Detection](https://arxiv.org/abs/2412.08068) <br> **Xin-Cheng Wen**, Zirui Lin, Cuiyun Gao, Hongyu Zhang, Yong Wang, Qing Liao <br>2025 IEEE/ACM 47th International Conference on Software Engineering **(ICSE-25 CCF-A)** <br>Ottawa, Canada. April 27 - May 3 2025 <br> *Completed at HITSZ in 2024.8, Advisor: Cuiyun Gao and Hongyu Zhang* <br>
 
 - [Collaboration to Repository-Level Vulnerability Detection](https://dl.acm.org/doi/abs/10.1145/3650212.3685562) <br>**Xin-Cheng Wen** <br> **ISSTA/ECOOP-2024 Doctoral Symposium** <br>Vienna, Austria. 16-20 September, 2024<br> *Completed at HITSZ in 2024.6, Advisor: Cuiyun Gao*<br>
 
