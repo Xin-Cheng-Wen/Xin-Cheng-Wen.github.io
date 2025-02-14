@@ -65,7 +65,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## ✒️ SERVICES
 - Reviewer for **TOSEM, TNNLS, TIFS, TKDE**
-- Subreviewer for **ASE 2024, FSE 2024, ISSTA 2024, ASE 2023, TSE, IST, JSS, EMSE**
+- Subreviewer for **ASE, FSE, ISSTA, ASE, TSE, IST, JSS, EMSE, CVPR**
 
 <br>
 
@@ -74,7 +74,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## 🐳 Activities
 
 - **Nov 2023 - June 2024** Internship at **Tencent WXG** group, on **Repository-Level Code Completion and RAG**.
-- **July 2024 - Now** Internship at **Tencent TEG** group, on **Multi-Agent Framework for Game Playing**. I work closely with Dr. Deheng Ye and [Yijun Yang](https://stevenyangyj.github.io/).
+- **July 2024 - Now** Internship at **Tencent TEG** group, on **Multi-Agent Framework and Large Language Models for Code**. I work closely with Dr. Deheng Ye and [Dr. Yijun Yang](https://stevenyangyj.github.io/).
 <br>
 
 ---
@@ -85,7 +85,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - **AI for Vulnerability**
 - **LLM for Software Engineering**
-- **Multi-Agent Collaboration**
 - **Speech Emotion Recognition**
 
 ## 🌿 Honors and Awards
