@@ -8,7 +8,7 @@ title: Publications
 > **Note：** &nbsp;<br>
 > &nbsp;&nbsp;&nbsp;&nbsp;**^:** These authors contributed equally to this work.&nbsp;<br>
 > **Lastest Update:** &nbsp;<br>
-> &nbsp;&nbsp;&nbsp;&nbsp; 5th September 2024&nbsp; <br>
+> &nbsp;&nbsp;&nbsp;&nbsp; 5th February 2025&nbsp; <br>
 
 ---
 
@@ -46,7 +46,7 @@ title: Publications
 
 ## Collaborative Paper
 
-- [What Makes Good In-context Demonstrations for Code Intelligence Tasks with LLMs?](https://ieeexplore.ieee.org/abstract/document/10298329) <be> Shuzheng Gao, **Xin-Cheng Wen**, Cuiyun Gao, Wenxuan Wang, Michael R Lyu<br> **ASE 2023 CCF-A** <br>
+- [What Makes Good In-context Demonstrations for Code Intelligence Tasks with LLMs?](https://ieeexplore.ieee.org/abstract/document/10298329) <br> Shuzheng Gao, **Xin-Cheng Wen**, Cuiyun Gao, Wenxuan Wang, Michael R Lyu<br> **ASE 2023 CCF-A** <br>
 
 - [Emo-DNA: Emotion Decoupling and Alignment Learning for Cross-Corpus Speech Emotion Recognition](https://dl.acm.org/doi/abs/10.1145/3581783.3611704) <br> Jiaxin Ye, Yujie Wei, **Xin-Cheng Wen**, Chenglong Ma, Zhizhong Huang, Kunhong Liu, Hongming Shan<br> **ACM MM 2023 CCF-A**<br>
 
