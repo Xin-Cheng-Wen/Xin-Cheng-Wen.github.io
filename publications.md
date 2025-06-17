@@ -13,6 +13,8 @@ title: Publications
 ---
 
 ## Conference Paper
+- [Boosting Vulnerability Detection of LLMs via Curriculum Preference Optimization with Synthetic Reasoning Data](https://arxiv.org/abs/2506.07390) <br> **Xin-Cheng Wen**, Yijun Yang, Cuiyun Gao, Yang Xiao, Deheng Ye <br> The 63rd Annual Meeting of the Association for Computational Linguistics **(ACL-25 Findings)** <br>Vienna, Austria. July 27 - August 1st 2025 <br> *Interned at Tencent in 2025.1, Advisor: Yijun Yang and Cuiyun Gao, Project Leader: Deheng Ye* <br>
+
 
 - [Repository-Level Graph Representation Learning for Enhanced Security Patch Detection](https://arxiv.org/abs/2412.08068) <br> **Xin-Cheng Wen**, Zirui Lin, Cuiyun Gao, Hongyu Zhang, Yong Wang, Qing Liao <br>2025 IEEE/ACM 47th International Conference on Software Engineering **(ICSE-25 CCF-A)** <br>Ottawa, Canada. April 27 - May 3 2025 <br> *Completed at HITSZ in 2024.8, Advisor: Cuiyun Gao and Hongyu Zhang* <br>
 
