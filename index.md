@@ -7,7 +7,7 @@ layout: page
 
 Here is **Xin-Cheng Wen (文昕成)**.
 
-I'm currently a second-year Ph.D. student specializing in Computer Science (CS) at STAR Lab, Harbin Institute of Technology (Shenzhen). I have the privilege of being advised by Prof. [Cuiyun Gao](https://cuiyungao.github.io/). I received my Bachelor's degree in the School of Informatics at Xiamen University in 2022, advised by Prof. [Kun-Hong Liu](https://cdmc.xmu.edu.cn/info/1010/1055.htm). My research pursuits primarily revolve around the captivating fields of Artificial Intelligence (AI) techniques for software engineering.
+I'm currently a third-year Ph.D. student specializing in Computer Science (CS) at STAR Lab, Harbin Institute of Technology (Shenzhen). I have the privilege of being advised by Prof. [Cuiyun Gao](https://cuiyungao.github.io/). I received my Bachelor's degree in the School of Informatics at Xiamen University in 2022, advised by Prof. [Kun-Hong Liu](https://cdmc.xmu.edu.cn/info/1010/1055.htm). My research pursuits primarily revolve around the captivating fields of Artificial Intelligence (AI) techniques for software engineering.
 
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *xiamenwxc[at]foxmail.com*
@@ -19,6 +19,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ---
 
 ## 📺 News and Updates
+- &#x1F4A1; [11/2024][Conference]. Our paper is directly accepted by **[ASE 2025]** without revision, with an acceptance rate of 9.9% (113/1136)!
 - &#x1F4A1; [05/2025][Conference]. Our paper is accepted by **[ACL 2025 Findings](https://arxiv.org/abs/2506.07390)**.
 - &#x1F4A1; [11/2024][Conference]. Our paper is directly accepted by **[ICSE 2025](https://arxiv.org/abs/2412.08068)** without revision, with an acceptance rate of 10.3% (66/662)!
 - &#x1F4A1; [07/2024][Conference]. One demo paper accepted by **ISSTA/ECOOP 2024** of **Doctoral Symposium**.
