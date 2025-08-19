@@ -19,7 +19,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ---
 
 ## 📺 News and Updates
-- &#x1F4A1; [11/2024][Conference]. Our paper is directly accepted by **[ASE 2025]** without revision, with an acceptance rate of 9.9% (113/1136)!
+- &#x1F4A1; [08/2024][Conference]. Our paper is directly accepted by **[ASE 2025]** without revision, with an acceptance rate of 9.9% (113/1136)!
 - &#x1F4A1; [05/2025][Conference]. Our paper is accepted by **[ACL 2025 Findings](https://arxiv.org/abs/2506.07390)**.
 - &#x1F4A1; [11/2024][Conference]. Our paper is directly accepted by **[ICSE 2025](https://arxiv.org/abs/2412.08068)** without revision, with an acceptance rate of 10.3% (66/662)!
 - &#x1F4A1; [07/2024][Conference]. One demo paper accepted by **ISSTA/ECOOP 2024** of **Doctoral Symposium**.
