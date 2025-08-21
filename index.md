@@ -20,11 +20,11 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## 📺 News and Updates
 - &#x1F4A1; [08/2024][Conference]. Our paper is directly accepted by **[ASE 2025]** without revision, with an acceptance rate of 9.9% (113/1136)!
-- &#x1F4A1; [05/2025][Conference]. Our paper is accepted by **[ACL 2025 Findings](https://arxiv.org/abs/2506.07390)**.
-- &#x1F4A1; [11/2024][Conference]. Our paper is directly accepted by **[ICSE 2025](https://arxiv.org/abs/2412.08068)** without revision, with an acceptance rate of 10.3% (66/662)!
+- &#x1F4A1; [05/2025][Conference]. Our paper is accepted by **[ACL 2025 Findings](https://aclanthology.org/2025.findings-acl.467/)**.
+- &#x1F4A1; [11/2024][Conference]. Our paper is directly accepted by **[ICSE 2025](https://ieeexplore.ieee.org/abstract/document/11029757)** without revision, with an acceptance rate of 10.3% (66/662)!
 - &#x1F4A1; [07/2024][Conference]. One demo paper accepted by **ISSTA/ECOOP 2024** of **Doctoral Symposium**.
 - &#x1F4A1; [03/2024][Journal]. Our paper is accepted by TSE.
-- &#x1F4A1; [03/2024][Conference]. Our paper accepted by **[ISSTA 2024](https://arxiv.org/abs/2403.19096)**.
+- &#x1F4A1; [03/2024][Conference]. Our paper accepted by **[ISSTA 2024](https://dl.acm.org/doi/abs/10.1145/3650212.3652124)**.
 - &#x1F4A1; [02/2024][Conference]. Congrats to Xinchen and Ruida. Our paper accepted by ISCE 24 Challenge Track, **the first [repository-level vulnerability dataset](https://arxiv.org/abs/2401.13169)**.
 - &#x1F4A1; [11/2023][Journal]. Our paper is accepted by TSE.
 - &#x1F4A1; [08/2023][Conference]. Congrats to Jiaxin. One paper is accepted in ACM MM 2023.
