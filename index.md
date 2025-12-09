@@ -19,7 +19,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ---
 
 ## 📺 News and Updates
-- &#x1F4A1; [08/2024][Conference]. Our paper is directly accepted by **[ASE 2025]** without revision, with an acceptance rate of 9.9% (113/1136)!
+- &#x1F4A1; [08/2024][Conference]. Our paper is directly accepted by **[ASE 2025](https://arxiv.org/abs/2510.05480)** without revision, with an acceptance rate of 9.9% (113/1136)!
 - &#x1F4A1; [05/2025][Conference]. Our paper is accepted by **[ACL 2025 Findings](https://aclanthology.org/2025.findings-acl.467/)**.
 - &#x1F4A1; [11/2024][Conference]. Our paper is directly accepted by **[ICSE 2025](https://ieeexplore.ieee.org/abstract/document/11029757)** without revision, with an acceptance rate of 10.3% (66/662)!
 - &#x1F4A1; [07/2024][Conference]. One demo paper accepted by **ISSTA/ECOOP 2024** of **Doctoral Symposium**.
@@ -55,6 +55,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ---
 
 ## 🔎 Experience 
+- **[11/2025] [Presentation]** ASE 2025 **@Seoul, South Korea**
 - **[09/2024] [Presentation]** ISSTA 2024 **@Austria**
 - **[08/2024] [Presentation]** Invited by **CCF TCSE**
 - **[01/2024] [Talk]** Invited by **Nadi Daoudi @University of Luxembourg**
@@ -76,7 +77,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## 🐳 Activities
 
 - **Nov 2023 - June 2024** Internship at **Tencent WXG** group, on **Repository-Level Code Completion and RAG**.
-- **July 2024 - Now** Internship at **Tencent TEG** group, on **Multi-Agent Framework and Large Language Models for Code**. I work closely with Dr. Deheng Ye and [Dr. Yijun Yang](https://stevenyangyj.github.io/).
+- **July 2024 - August 2025** Internship at **Tencent TEG** group, on **Multi-Agent Framework and Large Language Models for Code**. I work closely with Dr. Deheng Ye and [Dr. Yijun Yang](https://stevenyangyj.github.io/).
+- **September 2025 - Now** Internship at **Ant CodeFuse and InClusion AI** group, on **Large Language Models for SWE-Bench and Code**. I work closely with Dr. Peng Di and Dr. Hang Yu.
 <br>
 
 ---
