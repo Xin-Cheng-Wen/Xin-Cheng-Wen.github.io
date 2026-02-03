@@ -19,7 +19,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ---
 
 ## 📺 News and Updates
-- &#x1F4A1; [08/2024][Conference]. Our paper is directly accepted by **[ASE 2025](https://arxiv.org/abs/2510.05480)** without revision, with an acceptance rate of 9.9% (113/1136)!
+- &#x1F4A1; [01/2026][Journal]. Our paper is accepted by TSE.
+- &#x1F4A1; [08/2025][Conference]. Our paper is directly accepted by **[ASE 2025](https://arxiv.org/abs/2510.05480)** without revision, with an acceptance rate of 9.9% (113/1136)!
 - &#x1F4A1; [05/2025][Conference]. Our paper is accepted by **[ACL 2025 Findings](https://aclanthology.org/2025.findings-acl.467/)**.
 - &#x1F4A1; [11/2024][Conference]. Our paper is directly accepted by **[ICSE 2025](https://ieeexplore.ieee.org/abstract/document/11029757)** without revision, with an acceptance rate of 10.3% (66/662)!
 - &#x1F4A1; [07/2024][Conference]. One demo paper accepted by **ISSTA/ECOOP 2024** of **Doctoral Symposium**.
@@ -87,7 +88,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## 📌 Research Interests
 
-- **AI for Vulnerability**
+- **AI for Code and Vulnerability**
 - **LLM for Software Engineering**
 - **Speech Emotion Recognition**
 
