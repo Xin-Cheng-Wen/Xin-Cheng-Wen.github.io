@@ -80,7 +80,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - **Nov 2023 - June 2024** Internship at **Tencent WXG** group, on **Repository-Level Code Completion and RAG**.
 - **July 2024 - August 2025** Internship at **Tencent TEG** group, on **Multi-Agent Framework and Large Language Models for Code**. I work closely with Dr. Deheng Ye and [Dr. Yijun Yang](https://stevenyangyj.github.io/). Happy to win the **Tencent** Rhino-Bird Elite Talent Program.
-- **September 2025 - April 2026** Internship at **Ant CodeFuse and InClusion AI** group, on **Large Language Models for SWE-Bench and Code**. I work closely with Dr. Peng Di and Dr. Hang Yu. Happy to win the **Ant** Star Plan A  Program.
+- **September 2025 - March 2026** Internship at **Ant CodeFuse and InClusion AI** group, on **Large Language Models for SWE-Bench and Code**. I work closely with Dr. Peng Di and Dr. Hang Yu. Happy to win the **Ant** Star Plan A  Program.
+- **April 2026 - Now** Internship at **MINIMAX Post Train** group, on **LLM for Code**. Happy to win the **MINIMAX** Top Talent  Program.
 <br>
 
 ---
@@ -89,7 +90,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## 📌 Research Interests
 
-- **AI for Code and Vulnerability**
+- **AI for Code**
 - **LLM for Software Engineering**
 - **Speech Emotion Recognition**
 
