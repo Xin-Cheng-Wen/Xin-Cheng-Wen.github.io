@@ -13,7 +13,7 @@ I am currently a research intern on the **post-training** team at **MINIMAX**, s
 
 I am on the **2027** job market, actively seeking full-time roles on foundation / base-model teams working on **code LLMs** / **RL** — please feel free to reach out if our interests align.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *xiamenwxc[at]foxmail.com*
+If you are interested in any aspect of me, I would love to chat and collaborate. Please email me at - *xiamenwxc[at]foxmail.com*
 
 
   
@@ -101,7 +101,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **ICSE'24 Best Paper Award of Industry Challenge Track**, 2024
 - **Binxing Fang Scholarship**, 2023.
 - **Outstanding Graduate of XMU**, 2022
-
 
 
 
