@@ -22,6 +22,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate.
 ---
 
 ## 📺 News and Updates
+- &#x1F463; [06/2026][News]. [MINIMAX M3](https://www.minimaxi.com/models/text/m3) is coming!!! 🎉
 - &#x1F463; [02/2026][News]. [SWE-Fuse](https://arxiv.org/abs/2603.07927) achieved TOP 3  🏆 in the 8B (49.8%) and 32B (65.2%) of code agents in the SWE-bench Verified leaderboard 🎉
 - &#x1F4A1; [01/2026][Journal]. Our paper has been accepted by TSE.
 - &#x1F4A1; [08/2025][Conference]. Our paper is directly accepted by **[ASE 2025](https://arxiv.org/abs/2510.05480)** without revision, with an acceptance rate of 9.9% (113/1136)!
